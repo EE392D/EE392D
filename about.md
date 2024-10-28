@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: Syllabus
+nav_exclude: false
 description: >-
     Course policies and information.
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -18,16 +19,49 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+EE 392D is a graduate course that covers work and current topics related to wireless communication and sensing systems. The course consists of reading and discussing published research papers, presenting recent work on wireless sensing systems, and completing an original research project. 
 
-## Lecture
+## Prerequisites
+EE 392 is open to all graduate students as well as advanced undergraduate students. While the course has no official prerequisites, a mature understanding of wireless communication and sensing is required.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+## Course Structure
 
-## Resources
+### Reading and Discussion (30%)
+We will read and discuss 1-2 papers for each class. Students should come prepared to discuss assigned papers and make substantive intellectual contributions. This means that you need to read each paper ahead of time thoroughly. Before each lecture, students will submit a short summary (400 word) for each paper and propose one discussion question for each class. 
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Students will submit the reading assignments through [Gradescope](https://www.gradescope.com/courses/901342) by **1 PM on the day of each class**. Paper summaries should be completed without the help of LLMs (e.g., ChatGPT).
 
-## Assignments
+Grading will based **20% on the written responses** and **10% on in-class participation**. Late submissions on written assignments are not permitted, but students may skip one paper summary and one lectures without penalty. Participation grades are based on attendance and active participation during class discussions. 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Topic Presentation (15%)
+Each student will present a recent paper during the quarter that is relevant to that day's class topic. During the first week of the quarter students will have the opportunity to sign up for a topic presentation. As part of the topic presentation, students are expected to perform a literature search and select a paper that was published within the last 5 years from a top-tier venue (e.g., Mobicom, NSDI, MobiSys, Sensys, SIGCOMM, IPSN, IMWUT, CHI). 
+
+* Students must submit their papers for approaval to the teaching staff at least three days before their scheduled presentation. 
+* Presentations will be 15 minutes with 5 minutes for questions. 
+
+### Course Project (55%)
+Students will complete a quarter-long original research project in small groups (1-3 students) on a topic of their own choosing. Groups will present their work during the last two sections as well as submit a 4-6 page report, similar to the papers we read in the course. 
+
+Project grading is broken down into four components:
+
+* Project Proposal (5%): Groups will meet with the course staff to discuss their project during the third week of class and submit a one-page project proposal. Details on how to prepare the proposal is in the assignment description.
+* Mid-Quarter Progress Report (5%): Students will submit a short (1-2 pages) progress report mid-quarter. The report should indicate what has been accomplished, what is remaining to be completed, challenges the team has faced, and any preliminary results. 
+* Presentation (10%): Groups will give a 15-minute class presentation during the last week of the course.  
+* Final Paper (35%): Groups will give a 15-minute class presentation during the last week of the course. 
+Final Paper (35%): Groups will submit a final project report similar to the papers that were read. Papers should be 6-8 pages and use the USENIX LaTeX template. Students who are not familiar with LaTex can use a Word template. However, using LaTex is highly encouraged. 
+
+**Well executed projects can lead to publications at top-tier conferences and workshops.**
+
+## Course Policies 
+
+* Students must submit all assignments through [Gradescope](https://www.gradescope.com/courses/901342) by the posted deadline. 
+* All submitted work must by written by the students. Using generative AI tools on assignments is prohibited. 
+* Attendance on on 3/18/2025 and 3/20/2025 is required for all students. 
+* This course has no final exam. 
+
+## Access and Accommodations
+Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class. If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started or to re-initiate services, please visit [oae.stanford.edu](oae.stanford.edu).
+
+If you already have an Academic Accommodation Letter, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
+
+Stanford as an institution is committed to the highest quality education, and as your teaching team, our first priority is to uphold your educational experience. To that end we are committed to following the syllabus as written here, including through short or long-term disruptions, such as public health emergencies, natural disasters, or protests and demonstrations. However, there may be extenuating circumstances that necessitate some changes. Should adjustments be necessary, we will communicate clearly and promptly to ensure you understand the expectations and are positioned for successful learning.
