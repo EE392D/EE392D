@@ -5,8 +5,7 @@ nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
----
+  name: EE392D: Wireless Sensing Systems
 
 # Topics in Wireless Sensing Systems
 
@@ -26,7 +25,7 @@ EE 392 is open to all graduate students as well as advanced undergraduate studen
 All announcements will be sent over email and posted on Slack. 
 
 ### Submissions
-Al course assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/901342)
+All course assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/901342)
 
 ### Other Resources
 If you are new to publishing academic research, check out [Writing Techincal Articles](https://www.cs.columbia.edu/~hgs/etc/writing-style.html) and [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
