@@ -24,7 +24,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 color_scheme: light
-search_enabled: false
+search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
@@ -34,10 +34,20 @@ footer_content:
 
 # Collections for website data
 collections:
+  staffers:
   modules:
   schedules:
+  announcements:
 # Default layouts for each collection type
 defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
   - scope:
       path: ''
       type: modules
@@ -48,6 +58,11 @@ defaults:
       type: schedules
     values:
       layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
 
 compress_html:
   clippings: all
