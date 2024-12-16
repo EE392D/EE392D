@@ -21,12 +21,15 @@ baseurl: '/EE392D' # the subpath of your site, e.g. /blog
 url: 'https://github.com/zkapetanovic' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 color_scheme: light
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 permalink: pretty
+
+
 aux_links:
   EE 392D Wireless Sensing Systems:
     - 'https://github.com/zkapetanovic/EE392D'
@@ -34,6 +37,9 @@ footer_content:
 
 # Collections for website data
 collections:
+  pages:
+    output: true
+    sort_by: nav_order
   staffers:
   modules:
   schedules:
@@ -64,6 +70,8 @@ defaults:
     values:
       layout: announcement
 
+
+
 compress_html:
   clippings: all
   comments: all
@@ -75,3 +83,4 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
