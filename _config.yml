@@ -18,7 +18,7 @@ tagline: Topics in Wireless Sensing Systems
 description: Course website for EE392D
 author: EE 392D
 baseurl: '/EE392D' # the subpath of your site, e.g. /blog
-url: 'https://github.com/zkapetanovic' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ee392d.github.io/EE392D/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 
@@ -32,7 +32,7 @@ permalink: pretty
 
 aux_links:
   EE 392D Wireless Sensing Systems:
-    - 'https://github.com/zkapetanovic/EE392D'
+    - 'https://ee392d.github.io/EE392D/'
 footer_content:
 
 # Collections for website data
