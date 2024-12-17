@@ -23,7 +23,7 @@ EE 392D is a graduate course that covers work and current topics related to wire
 EE 392 is open to all graduate students as well as advanced undergraduate students. While the course has no official prerequisites, a mature understanding of wireless communication and sensing is required. 
 
 ### Communication
-All announcements will be sent over email and posted on Slack. 
+All announcements will be sent over email. **Make sure you are subscribed to the class mailing list.**
 
 ### Submissions
 All course assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/901342)
