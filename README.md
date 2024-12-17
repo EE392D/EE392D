@@ -13,11 +13,11 @@ seo:
 EE 392D is a graduate course that covers work and current topics related to wireless communication and sensing systems. The course consists of reading and discussing published research papers, presenting recent work on wireless sensing systems, and completing an original research project. 
 
 ## Course Information
-- Lectures: T/Th 3-4:20 PM
-- Instructor: Zerina Kapetanovic (zerina@stanford.edu)
-- Course Assistant: Pullabhatla Smriti (psmriti@stanford.edu)
-- Office Hours: T/Th, 4:30-5PM (after class)
-- Class Mailing List: ee392d_wi25@stanford.edu
+- **Lectures:** T/Th 3-4:20 PM
+- **Instructor:** Zerina Kapetanovic (zerina@stanford.edu)
+- **Course Assistant:** Pullabhatla Smriti (psmriti@stanford.edu)
+- **Office Hours:** T/Th, 4:30-5PM (after class)
+- **Class Mailing List:** ee392d_wi25@stanford.edu
 
 ### Prerequisites
 EE 392 is open to all graduate students as well as advanced undergraduate students. While the course has no official prerequisites, a mature understanding of wireless communication and sensing is required. 

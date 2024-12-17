@@ -40,6 +40,8 @@ Each student will present a recent paper during the quarter that is relevant to 
 * Students must submit their papers for approval to the instructor at least three days before their scheduled presentation. 
 * Presentations will be 15 minutes with 5 minutes for questions. 
 
+<span>&#x1F4E2;</span>[**Presentation Sign Up Sheet**](https://docs.google.com/document/d/1_imn__8NqnxYJUMG1VSQ3-X0TeNmquX3zdBxy-BRQfE/edit?usp=sharing)
+
 ### Course Project (55%)
 Students will complete a quarter-long original research project in small groups (1-3 students) on a topic of their own choosing. Groups will present their work during the last two sections as well as submit a 4-6 page report, similar to the papers we read in the course. 
 
