@@ -9,7 +9,7 @@ title: Week 5 - Energy-efficient Hardware and Computing
 
 
 2/6
-: [MilliMobile: An Autonomous Battery-free Wireless Microrobot](https://homes.cs.washington.edu/~vsiyer/Papers/millimobile-compressed.pdf)<br /> K. Johnson, Z. Englhardt, V. Arroyos, D. Yin, S. patel, V. Iyer
+: [MilliMobile: An Autonomous Battery-free Wireless Microrobot](https://homes.cs.washington.edu/~vsiyer/Papers/millimobile-compressed.pdf)<br /> K. Johnson, Z. Englhardt, V. Arroyos, D. Yin, S. patel, V. Iyer <br />
 :[Wireless steerable vision for live insects and insect-scale robots](https://www.science.org/doi/10.1126/scirobotics.abb0839) <br /> Vikram Iyer, Ali Najafi, Johannes James, Sawyer Fuller, Shyamnath Gollakota <br />
 **Guest Speaker:** Cheayoung Lee <br />
 **Talk Title:** Hypercam: Low-power Onboard Computer Vision for IoT Cameras
