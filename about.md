@@ -35,7 +35,7 @@ Students will submit the reading assignments through [Gradescope](https://www.gr
 Grading will based **20% on the written responses** and **10% on in-class participation**. Late submissions on written assignments are not permitted, but students may skip one paper summary and one lectures without penalty. Participation grades are based on attendance and active participation during class discussions. 
 
 ### Topic Presentation (15%)
-Each student will present a recent paper during the quarter that is relevant to that day's class topic. During the first week of the quarter students will have the opportunity to sign up for a topic presentation. As part of the topic presentation, students are expected to perform a literature search and select a paper that was published within the last 5 years from a top-tier venue (e.g., Mobicom, NSDI, MobiSys, Sensys, SIGCOMM, IPSN, IMWUT, CHI). 
+Each student will present a recent paper during the quarter that is relevant to that day's class topic. During the first week of the quarter students will have the opportunity to sign up for a topic presentation. As part of the topic presentation, students are expected to perform a literature search and select a paper that was published from a top-tier venue (e.g., Mobicom, NSDI, MobiSys, Sensys, SIGCOMM, IPSN, IMWUT, CHI). 
 
 * Students must submit their papers for approval to the instructor at least three days before their scheduled presentation. 
 * Presentations will be 15 minutes with 5 minutes for questions. 
@@ -50,7 +50,7 @@ Project grading is broken down into four components:
 * **Project Proposal (5%):** Groups will meet with the instructor to discuss their project during the third week of class and submit a one-page project proposal. Details on how to prepare the proposal is in the assignment description.
 * **Mid-Quarter Progress Report (5%):** Students will submit a short (1-2 pages) progress report mid-quarter. The report should indicate what has been accomplished, what is remaining to be completed, challenges the team has faced, and any preliminary results. 
 * **Presentation (10%):** Groups will give a 15-minute class presentation during the last week of the course.  
-* **Final Paper (35%):** Groups will submit a final project report similar to the papers that were read. Papers should be 6-8 pages and use the USENIX LaTeX template. Students who are not familiar with LaTex can use a Word template. However, using LaTex is highly encouraged. 
+* **Final Paper (35%):** Groups will submit a final project report similar to the papers that were read. Papers should be 4-6 pages and use the USENIX LaTeX template. Students who are not familiar with LaTex can use a Word template. However, using LaTex is highly encouraged. 
 
 **Well executed projects can lead to publications at top-tier conferences and workshops.**
 
