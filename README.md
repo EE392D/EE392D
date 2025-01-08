@@ -15,7 +15,7 @@ EE 392D is a graduate course that covers work and current topics related to wire
 ## Course Information
 - **Lectures:** T/Th 3-4:20 PM, Gates 100
 - **Instructor:** Zerina Kapetanovic (zerina@stanford.edu)
-- **Course Assistant:** Pullabhatla Smriti (psmriti@stanford.edu)
+- **Course Grader:** Pullabhatla Smriti (psmriti@stanford.edu)
 - **Office Hours:** T/Th, 4:30-5PM (after class)
 - **Class Mailing List:**  ee392d_wi25@lists.stanford.edu
 
