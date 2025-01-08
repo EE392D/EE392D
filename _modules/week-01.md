@@ -4,7 +4,7 @@ title: Week 1 - Introduction + Backscatter Communication
 
 1/7
 : [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)<br /> S. Keshav
-<!-- : [Lecture Slides]() -->
+: [Lecture Slides](https://drive.google.com/file/d/1AyFxb8y7QrySfMNrCzYd-KlbhUoDeQ2n/view?usp=sharing) 
 
 1/9
 : [Design of an RFID-Based Battery-Free Programmable Sensing Platform](https://ieeexplore.ieee.org/document/4539485)<br /> A. Sample, D. Yeager, P. Powledge, A. Mamishev, J.R. Smith
