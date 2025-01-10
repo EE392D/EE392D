@@ -9,4 +9,4 @@ title: Week 7 - IoT Systems and Deployments
 2/20
 : [Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet](https://dl.acm.org/doi/abs/10.1145/605397.605408?casa_token=WclGpts0sqcAAAAA:3z1ujFs0-uoZD-S9SG1-nB71GRmDbwDSFEvUE-y44DJmVDLHvHYV2Y48x6jv_hhc7VVbLp8zZzo)<br /> Philo Juang, Hidekazu Oki, Yong Wang, Margaret Martonosi, Li Peh Daniel Rubenstein
 : [The Networked Sensory Landscape: Capturing and Epxeriencing Ecological Change Across Scales](https://ieeexplore.ieee.org/abstract/document/8315193)<br /> B. Mayton, G. Dublon, S. Russel, E. Lynch, D. Haddad, V. Ramasubramanian, C. Duhart, G. Davenport, J. Paradiso
-: Topic Presentation: Sho 
+: **Topic Presentation:** Sho 
