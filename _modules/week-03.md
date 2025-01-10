@@ -11,6 +11,7 @@ title: Week 3 - Energy Harvesting
 
 1/23
 : [CapHarvester: A Stick-on Capactive Energy Harvester Using Stray Electric Field from AC Power Lines](https://ubicomplab.cs.washington.edu/pdfs/capharvester.pdf)<br /> M. Gulati, F. Parizi, E. Whitmire, S. Gupta, S. Ram, A. Singh, S. Patel
-: [Riding the Airways: Ultra-Wideband Ambient Backscatter via Commercial Broadcast Systems](https://theisclab.com/docs/2017_INFOCOM_UWB-Backscatter_Yang.pdf)<br /> C. Yang, J. Gummeson, A. Sample <br />
+: [Riding the Airways: Ultra-Wideband Ambient Backscatter via Commercial Broadcast Systems](https://theisclab.com/docs/2017_INFOCOM_UWB-Backscatter_Yang.pdf)<br /> C. Yang, J. Gummeson, A. Sample 
+: Topic Presentation: Steven <br />
 **Project Proposals Due** <span>&#x1F4E2;</span> 
 
