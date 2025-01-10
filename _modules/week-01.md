@@ -8,7 +8,8 @@ title: Week 1 - Introduction + Backscatter Communication
 
 1/9
 : [Design of an RFID-Based Battery-Free Programmable Sensing Platform](https://ieeexplore.ieee.org/document/4539485)<br /> A. Sample, D. Yeager, P. Powledge, A. Mamishev, J.R. Smith
-: [Ambient Backscatter: Wireless Communication Out of Thin Air](http://abc.cs.washington.edu/files/comm153-liu.pdf)<br /> V. Talla, S. Gollakota, D. Wetherall, J.R. Smith
+: [Ambient Backscatter: Wireless Communication Out of Thin Air](http://abc.cs.washington.edu/files/comm153-liu.pdf)<br /> V. Talla, S. Gollakota, D. Wetherall, J.R. Smith 
+: [Lecture Slides](https://drive.google.com/file/d/10VoqnaKukJijv0g_lxtJPYmzWt0WWOKQ/view?usp=share_link)
 
 
 
