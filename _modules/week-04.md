@@ -4,7 +4,7 @@ title: Week 4 - Wireless Sensing and More
 
 
 1/28
-: [Smart Homes that Monitor Breathing and Heart Rate](https://witrack.csail.mit.edu/vitalradio/content/vitalradio-paper.pdf)<br /> F. Adib, H. Mao, Z. Kabelac, D. Katabi, R. Miller
+: [AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals](https://dl.acm.org/doi/abs/10.1145/3665112.3665119)<br /> Sayed Saad Afzal, Atsutse Kludze, Subhajit Karmakar, Ranveer Chandra, Yasaman Ghasempour
 : [LiquID: A Wireless Liquid IDentifier](https://dl.acm.org/doi/abs/10.1145/3210240.3210345)<br /> A. Dhekne, M. Gowda, Y. Zhao, H. Hassanieh, R. Choudhury
 
 1/30
