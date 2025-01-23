@@ -10,3 +10,4 @@ title: Week 2 - Battery-free Sensing
 1/16 
 : [RFID Tattoo: A Wireless Platform for Speech Recognition](https://dl.acm.org/doi/abs/10.1145/3369812)<br /> J. Wang, C. Pan, H. Jin, V. Singh, Y. Jain, J. Hong, C. Majidi, S. Kumar
 : [RIO: A Pervasive RFID-based Touch Gesture Interface](https://dl.acm.org/doi/abs/10.1145/3117811.3117818) S. Pradhan, E. CHai, K. Sundaresan, L. Qiu, M. Khojastepour, S. Rangarajan
+: [Lecture Slides](https://drive.google.com/file/d/1K-YJWDx_ZVysIuwC3X2YuRy1lwFtbboH/view?usp=share_link)
