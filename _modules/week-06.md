@@ -11,3 +11,4 @@ title: Week 6 - Wearable Devices
 2/13
 : [MagX: Wearable, Untethered Hands Tracking with Passive MAgnets](https://theisclab.com/docs/2021_MobiCom_MagX_Chen.pdf)<br /> D. Chen, M. Wang, C. He, Q. Luo, Y. Iravantchi, A. Sample, K. Shin, X. Wang
 : [picoRing: batery-free rings for subtle thumb-to-index input](https://dl.acm.org/doi/10.1145/3654777.3676365) <br /> Ryo Takahashi, Eric Whitmire, Roger Boldu, Shiu Ng, Wolf Kienzle, Hrvoje Benko
+: **Topic Presentation:** Nicole
