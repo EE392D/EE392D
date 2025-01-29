@@ -11,4 +11,5 @@ title: Week 8 - Localization, Smart Surfaces/Metameterials
 2/27
 : [RFocus - Beamforming Using Thousands of Passive Antennas](https://www.usenix.org/system/files/nsdi20-paper-arun.pdf)<br />V. Arun, K. Balakrishnan
 : [Programmable Radio Environments for Smart Spaces](https://dl.acm.org/doi/abs/10.1145/3152434.3152456?casa_token=7yN5V39J1sMAAAAA:1S_oymk5z5A7bz-I3vMXFFgAjSjghZi3UF4SyZC1bTZorR_tWRfGHYdlzvpOwvkBkMVL85VxcLs)<br /> A. Welkie, L. Shangguan, J. Gummeson, W. Hu, K. Jamieson
+: <span style="color: red;">** Project Progress Report Due**</span>
 : **Topic Presentation:** Sydney
