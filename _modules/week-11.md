@@ -4,8 +4,8 @@ title: Week 11
 
 
 3/18
-: **Final Presenations**
-: Attendance mandatory.
+: **Dedicated time for final project**
+: No required readings.
 
 3/20
 : **Final Presentations**
