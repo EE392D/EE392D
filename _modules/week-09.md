@@ -4,7 +4,7 @@ title: Week 9 - Satellite Networking, Thermal Noise Communication
 
 
 3/4
-: [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things]()<br /> V. Singh, T. Chakraborty, S. Jog, O. Chabra, D. Vasisht, R. Chandra
+: [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things](https://deepakv.web.illinois.edu/assets/papers/spectrumize_nsdi24.pdf)<br /> V. Singh, T. Chakraborty, S. Jog, O. Chabra, D. Vasisht, R. Chandra
 : [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in *Serval*](http://deepakv.web.illinois.edu/assets/papers/serval_nsdi24.pdf)<br /> B. Tao, O. Chabra, I. Janveja, I. Gupta, D. Vasisht
 : <span style="color: red;">** Project Progress Report Due**</span>
 : **Guest Speaker: Professor Deepak Vasisht, UIUC**
