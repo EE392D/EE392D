@@ -7,7 +7,7 @@ title: Week 7
 : [FarmBeats: An IoT Platform for Data-Driven Agriculture](), Deepak Vasisht, Zerina Kapetanovic, Jongho Won, Xinxin Jin, Ranveer CHandra, Ashish Kapoor, Sudipta Sinha, Madhusudhan Sudarshan, Sean Stratman (NSDI 2017)
 : [Whisper: IoT in the TV White Space Spectrum](), Tusher Chakraborty, Heping Shi, Zerina Kapetanovic, Bodhi Priyantha, Deepak Vasisht, Binh Vu, Parag Pandit, Prasad Pillai, Yaswant Chabria, Andrew Nelson, Michael Daum, Ranveer Chandra (NSDI 2022)
 : *Presenter(s):* Zerina Kapetanovic 
-: **No assignment this week**
+: **Reading summary not required**
 
 
 2/19

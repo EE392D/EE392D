@@ -13,7 +13,7 @@ seo:
 EE 392D is a graduate-level course on mobile computing and ubiquitous sensing. The course covers a broad range of topics, including wireless sensing, localization, wireless communication, energy harvesting, RFID, mobile health sensing, and the Internet of Things for the environment. Students will read research papers, participate in group discussions, and complete a final project in small groups.
 
 ## Course Information
-- **Lectures:** T/Th 3-4:20 PM, Gates 100
+- **Lectures:** T/Th 3-4:20 PM, Thornton 211 
 - **Instructor:** Zerina Kapetanovic (zerina@stanford.edu)
 - **Office Hours:** T/Th, 4:30-5PM (after class)
 
