@@ -8,7 +8,7 @@ title: Week 3
 : **Topic: Sensing Using Radio Signals**
 : [Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulations](https://dl.acm.org/doi/abs/10.1145/3581791.3596840), Zhiyuan Xie, Xiaomin Ouyang, Li Pan, Wenrui Lu, Guoliang Xing
 : *Presenter(s):*
-: [AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz WIreless Signals](https://dspace.mit.edu/bitstream/handle/1721.1/152622/3570361.3613275.pdf;jsessi), Sayed Saad Afzal, Atutse Kludze, Subhajit Karmakar, Ranveer CHandra, Yasaman Ghasempour (MobicCom 2023)
+: [AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals](https://dspace.mit.edu/bitstream/handle/1721.1/152622/3570361.3613275.pdf;jsessi), Sayed Saad Afzal, Atutse Kludze, Subhajit Karmakar, Ranveer CHandra, Yasaman Ghasempour (MobicCom 2023)
 : *Presenter(s):*
 
 1/22
