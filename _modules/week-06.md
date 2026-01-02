@@ -3,12 +3,16 @@ title: Week 6 - Wearable Devices
 ---
 
 
-2/11
-: [NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions](https://dl.acm.org/doi/abs/10.1145/3397313)<br />S. Zhang, Y. Zhao, D. Nguyen, R. Xu, S. Sen, J. Hester, N. Alshurafa
-: [Joey: Supporting Kangaroo Mother Care with Computational Fabrics](https://dl.acm.org/doi/abs/10.1145/3643832.3661867)<br />Q. Shao, J. Lu, E. Bejerano, H. Colman, J. Nie, X. Jiang, X. Zhou
-: **Topic Presentation:** [GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame](https://dl.acm.org/doi/10.1145/3636534.3649376) (Tim)
+2/10
+: **Topic: Sensing with Smartphones**
+: [FeverPhone: Accessible Core-Body Temperature Sensing for Fever Monitoring Using Commodity SmartPhones](), Joseph Breda, Mastafa Springston, Alex Mariakakis, Shwetak Patel (IMWUT 2023)
+: *Presenter(s):*
+: [Micro-mechanical blood cot testing using smartphones](https://www.nature.com/articles/s41467-022-28499-y), Justin Chan, Kelly Michaelsen, HOanne Estergreen, Daniel Sabath, Shyamnath Gollakota (Nature Communications 2022)
+: *Presenter(s):*
 
-2/13
-: [MagX: Wearable, Untethered Hands Tracking with Passive MAgnets](https://theisclab.com/docs/2021_MobiCom_MagX_Chen.pdf)<br /> D. Chen, M. Wang, C. He, Q. Luo, Y. Iravantchi, A. Sample, K. Shin, X. Wang
-: [picoRing: batery-free rings for subtle thumb-to-index input](https://dl.acm.org/doi/10.1145/3654777.3676365) <br /> Ryo Takahashi, Eric Whitmire, Roger Boldu, Shiu Ng, Wolf Kienzle, Hrvoje Benko
-: **Topic Presentation:** [FaceBit: Smart Face Masks Platform](https://dl.acm.org/doi/abs/10.1145/3494991) (Nicole)
+2/12
+: **Topic: RFID Sensing**
+: [WiSh: Towards a Wireless Shape-aware World using Passive RFIDs](https://dl.acm.org/doi/abs/10.1145/3210240.3210328)<br /> H. Jin, J. Wang, Z. Yang, S. Kumar, J. Hong (MobiSys 2018)
+: *Presenter(s):*
+: [Soil Moisture Sensing with Commodity RFID Systems](https://web.cs.ucla.edu/~omid/Papers/Mobisys20.pdf), Ju Wang, Liqiong CHang, Shourya Agarwal, Omid Abari, Srinivasan Keshav (MobiSys 2020)
+: *Presenter(s):*

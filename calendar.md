@@ -6,7 +6,7 @@ description: Listing of course modules and topics.
 ---
 
 # Course Schedule
-<span>&#x1F4E2;</span> [**Presentation Sign Up Sheet**](https://docs.google.com/document/d/1_imn__8NqnxYJUMG1VSQ3-X0TeNmquX3zdBxy-BRQfE/edit?usp=sharing) 
+<span>&#x1F4E2;</span> [**Presentation Sign Up Sheet**](https://docs.google.com/spreadsheets/d/1i0pjsod4ymuqXJUeo0Tc7_qQCMddL0eC5u7T8DBTclg/edit?usp=share_link) 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
