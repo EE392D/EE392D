@@ -7,12 +7,15 @@ title: Week 7
 : [FarmBeats: An IoT Platform for Data-Driven Agriculture](), Deepak Vasisht, Zerina Kapetanovic, Jongho Won, Xinxin Jin, Ranveer CHandra, Ashish Kapoor, Sudipta Sinha, Madhusudhan Sudarshan, Sean Stratman (NSDI 2017)
 : [Whisper: IoT in the TV White Space Spectrum](), Tusher Chakraborty, Heping Shi, Zerina Kapetanovic, Bodhi Priyantha, Deepak Vasisht, Binh Vu, Parag Pandit, Prasad Pillai, Yaswant Chabria, Andrew Nelson, Michael Daum, Ranveer Chandra (NSDI 2022)
 : *Presenter(s):* Zerina Kapetanovic 
+: **No assignment this week**
 
 
 2/19
-: **Topic: Ocean IoT**
-: [OSPREE: Ocean Sensing Profiler for Remote Environmental Exploration]() (manuscript in progress)
-: *Presenter(s):* Bill Yen
+: **Topic: RFID Sensing**
+: [WiSh: Towards a Wireless Shape-aware World using Passive RFIDs](https://dl.acm.org/doi/abs/10.1145/3210240.3210328)<br /> H. Jin, J. Wang, Z. Yang, S. Kumar, J. Hong (MobiSys 2018)
+: *Presenter(s):*
+: [Soil Moisture Sensing with Commodity RFID Systems](https://web.cs.ucla.edu/~omid/Papers/Mobisys20.pdf), Ju Wang, Liqiong CHang, Shourya Agarwal, Omid Abari, Srinivasan Keshav (MobiSys 2020)
+: *Presenter(s):*
 
 <!-- : [CargoNet: a low-cost micropower sensor ndoe exploiting quasi-passive wakeup for adaptive asychronous monitoring of exceptional events](https://dl.acm.org/doi/abs/10.1145/1322263.1322278?casa_token=7NmGSWdsLYIAAAAA:kij7ieLwOD8X8sMlketdWMv1w-6DVYrCQzD_7F239UG6W4ntLIXRAIIINC7QKRqk5wz82Liakb4)<br /> M. Malinowski, M. Moskwa, M. Feldmeier, M. Laibowitz, J. Paradiso
 : [Eclipse: An End-to-End Platform for Low-Cost, Hyperlocal Environmental Sensing in Cities](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/ACM_2022-IPSN_FINAL_Eclipse.pdf)<br /> M. Daepp, A. Cabral, V. Ranganathan, V. Iyer, S. Counts, P. Johns, A. Roseway, C. Catlett, G. Jancke, C. Needham, C. von Veh, T. Tran, L. Story, G. D'Amone, B. Nguyen

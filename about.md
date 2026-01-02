@@ -20,7 +20,7 @@ description: >-
 
 ## About
 
-EE 392D is a graduate course that covers work and current topics related to wireless communication and sensing systems. The course consists of reading and discussing published research papers, presenting recent work on wireless sensing systems, and completing an original research project. 
+EE 392D is a graduate-level course on mobile computing and ubiquitous sensing. The course covers a broad range of topics, including wireless sensing, localization, wireless communication, energy harvesting, RFID, mobile health sensing, and the Internet of Things for the environment. Students will read research papers, participate in group discussions, and complete a final project in small groups.
 
 ## Prerequisites
 EE 392 is open to all graduate students as well as advanced undergraduate students. While the course has no official prerequisites, a mature understanding of wireless communication and sensing is required.
@@ -30,17 +30,14 @@ EE 392 is open to all graduate students as well as advanced undergraduate studen
 ### Reading and Discussion (30%)
 We will read and discuss 1-2 papers for each class. Students should come prepared to discuss assigned papers and make substantive intellectual contributions. This means that you need to read each paper ahead of time thoroughly. Before each lecture, students will submit a short summary (400 word) for each paper and propose one discussion question for each class. 
 
-Students will submit the reading assignments through [Gradescope](https://www.gradescope.com/courses/901342) by **1 PM on the day of each class**. Paper summaries should be completed without the help of LLMs (e.g., ChatGPT).
+Students will submit the reading assignments through [Gradescope](https://www.gradescope.com/courses/1208239) by **1 PM on the day of each class**. Paper summaries should be written without the help of LLMs (e.g., ChatGPT).
 
 Grading will based **20% on the written responses** and **10% on in-class participation**. Late submissions on written assignments are not permitted, but students may skip one paper summary and one lectures without penalty. Participation grades are based on attendance and active participation during class discussions. 
 
 ### Topic Presentation (15%)
-Each student will present a recent paper during the quarter that is relevant to that day's class topic. During the first week of the quarter students will have the opportunity to sign up for a topic presentation. As part of the topic presentation, students are expected to perform a literature search and select a paper that was published from a top-tier venue (e.g., Mobicom, NSDI, MobiSys, Sensys, SIGCOMM, IPSN, IMWUT, CHI). 
+Each student will present a research paper twice during the quarter. During the first week of the quarter students will have the opportunity to sign up for a topic presentation. Students are expected to present on one of the assigned research papers. Presentations will be 15 minutes long and details on presentation requirements can be found [here]()
 
-* Students must submit their papers for approval to the instructor at least three days before their scheduled presentation. 
-* Presentations will be 15 minutes with 5 minutes for questions. 
-
-<span>&#x1F4E2;</span>[**Presentation Sign Up Sheet**](https://docs.google.com/document/d/1_imn__8NqnxYJUMG1VSQ3-X0TeNmquX3zdBxy-BRQfE/edit?usp=sharing)
+<span>&#x1F4E2;</span>[**Presentation Sign Up Sheet**](https://docs.google.com/spreadsheets/d/1i0pjsod4ymuqXJUeo0Tc7_qQCMddL0eC5u7T8DBTclg/edit?usp=sharing)
 
 ### Course Project (55%)
 Students will complete a quarter-long original research project in small groups (1-3 students) on a topic of their own choosing. Groups will present their work during the last two sections as well as submit a 4-6 page report, similar to the papers we read in the course. 
@@ -56,9 +53,10 @@ Project grading is broken down into four components:
 
 ## Course Policies 
 
-* Students must submit all assignments through [Gradescope](https://www.gradescope.com/courses/901342) by the posted deadline. 
-* All submitted work must by written by the students. Using generative AI tools on assignments is prohibited. 
-* Attendance on on 3/18/2025 and 3/20/2025 is required for all students. 
+* Students must submit all assignments through [Gradescope](https://www.gradescope.com/courses/12082392) by the posted deadline. 
+* All written assignment must be original work by students
+* The use of AI in this course is allowed for learning. You may use AI to help you understand concepts presented in the research publications that the course covers. Any use of AI must be disclosed, including prompts, explanation of your choice of prompt and how it helped you understand the material. 
+* Attendance on on 3/17/2026 and 3/19/2026 is required for all students. 
 * This course has no final exam. 
 
 ## Access and Accommodations

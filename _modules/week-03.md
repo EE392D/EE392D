@@ -15,7 +15,7 @@ title: Week 3
 : **Topic: Sensing Using Radio Signals**
 : [LiquID: A Wireless Liquid IDentiier](https://dl.acm.org/doi/10.1145/3210240.3210345), Ashutosh Dhenke, Mahanth Gowda, Yixuan ZHao, Haitham Hassanieh, Romit Roy Choudhury (MobiSys 2018)
 : *Presenter(s):*
-: [Paper TBD]()
+: [BodyCompass: Monitoring Sleep Posture with Wireless Signals](https://people.csail.mit.edu/scyue/projects/bodycompass/bodycompass.pdf), Shichao Yue, Yuzhe Yang, Hao Wang, Hariharan Rahul, Dina Katabi (IMWUT 2020)
 : *Presenter(s):*
 
 

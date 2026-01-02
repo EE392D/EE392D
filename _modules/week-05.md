@@ -15,5 +15,5 @@ title: Week 5 - Energy-efficient Hardware and Computing
 : **Topic: Magnetic Sensing**
 : [MagX: Wearable, Untethered Hands Tracking with Passive Magnets](https://theisclab.com/docs/2021_MobiCom_MagX_Chen.pdf), Dongyao Chen, Mingke Wang, Chenxi He, Qing Luo, Yasha Iravantchi, Alanson Sample, Kang G. Shin, Xinbing Wang (MobiCom 2021)
 : *Presenter(s):*
-: [MagDesk: Interactive Tabletop Workspace based on Passive Magnetic Tracking](), Kungpeng Huang, Yasha Iravantchi, Dongyao Chen, Alanson Sample
+: [MagDesk: Interactive Tabletop Workspace based on Passive Magnetic Tracking](https://dl.acm.org/doi/10.1145/3699756), Kungpeng Huang, Yasha Iravantchi, Dongyao Chen, Alanson Sample
 : *Presenter(s):*

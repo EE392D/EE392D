@@ -13,6 +13,7 @@ title: Week 1 - Course Overview + Wireless Communication
 : **Topic: Wireless Communication Primer**
 : [Slides - Wireless Communication]()
 : **Reading:**
+: [The Wireless Channel](https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf)
 
 
 <!-- : [Design of an RFID-Based Battery-Free Programmable Sensing Platform](https://ieeexplore.ieee.org/document/4539485)<br /> A. Sample, D. Yeager, P. Powledge, A. Mamishev, J.R. Smith

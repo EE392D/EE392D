@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Localization, Smart Surfaces/Metameterials
+title: Week 8 
 ---
 
 
@@ -15,3 +15,4 @@ title: Week 8 - Localization, Smart Surfaces/Metameterials
 : [HyperCam: Low-POwer Onboard Computer Vision for IoT Cameras](https://dl.acm.org/doi/10.1145/3680207.3723490), Chaeyoung Lee, Pu (Luke) Yi, Maxwell Fite, Tejus Rao, Sara Achour, Zerina Kapetanovic (MobiCom 2025)
 : [NavHD: Low-Power Learning for Micro-Robotic Controls in the Wild](https://ieeexplore.ieee.org/document/11246660), Chaeyoung Lee, Sara Achour, Zerina Kapetanovic
 : *Presenter(s): Chaeyoung Lee*
+: **Reading summary not required**
