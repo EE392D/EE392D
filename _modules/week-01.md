@@ -1,10 +1,10 @@
 ---
-title: Week 1 - Course Overview + Wireless Communication
+title: Week 1 
 ---
 
 01/06
 : **Topic: Course Overview**
-: [Slides - Overview]() 
+: [Slides - Overview](https://drive.google.com/file/d/1RF72pVkgj5ojlgxXIjiifihDmW_PIZTG/view?usp=sharing) 
 : **Reading:**
 : [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)<br /> S. Keshav
 

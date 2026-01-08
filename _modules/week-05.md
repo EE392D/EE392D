@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Energy-efficient Hardware and Computing
+title: Week 5 
 ---
 
 

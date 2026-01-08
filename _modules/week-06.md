@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Wearable Devices
+title: Week 6 
 ---
 
 
