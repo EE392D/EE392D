@@ -11,7 +11,7 @@ title: Week 1
 
 01/08
 : **Topic: Wireless Communication Primer**
-: [Slides - Wireless Communication]()
+: [Slides - Wireless Communication](https://drive.google.com/file/d/1ozLbe790jCGs4y2PC90QJf7dK3vD_Ky2/view?usp=share_link)
 : **Reading:**
 : [The Wireless Channel](https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf)
 
