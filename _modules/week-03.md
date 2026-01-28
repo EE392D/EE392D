@@ -7,16 +7,16 @@ title: Week 3
 1/20
 : **Topic: Sensing Using Radio Signals**
 : [Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulations](https://dl.acm.org/doi/abs/10.1145/3581791.3596840), Zhiyuan Xie, Xiaomin Ouyang, Li Pan, Wenrui Lu, Guoliang Xing
-: *Presenter(s):*
+: *Presenter(s):* Ben
 : [AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals](https://dspace.mit.edu/bitstream/handle/1721.1/152622/3570361.3613275.pdf;jsessi), Sayed Saad Afzal, Atutse Kludze, Subhajit Karmakar, Ranveer CHandra, Yasaman Ghasempour (MobicCom 2023)
-: *Presenter(s):*
+: *Presenter(s):* Aidan
 
 1/22
 : **Topic: Sensing Using Radio Signals**
 : [LiquID: A Wireless Liquid IDentiier](https://dl.acm.org/doi/10.1145/3210240.3210345), Ashutosh Dhenke, Mahanth Gowda, Yixuan ZHao, Haitham Hassanieh, Romit Roy Choudhury (MobiSys 2018)
-: *Presenter(s):*
+: *Presenter(s):* Ronny
 : [BodyCompass: Monitoring Sleep Posture with Wireless Signals](https://people.csail.mit.edu/scyue/projects/bodycompass/bodycompass.pdf), Shichao Yue, Yuzhe Yang, Hao Wang, Hariharan Rahul, Dina Katabi (IMWUT 2020)
-: *Presenter(s):*
+: *Presenter(s):* Chris
 
 
 

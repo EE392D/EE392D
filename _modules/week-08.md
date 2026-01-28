@@ -6,9 +6,9 @@ title: Week 8
 2/24
 : **Topic: Acoustic IoT**
 : [MUTE: Bringing IoT to Noise Cancellation](), Sheng Shen, Nirupam Roy, Junfeng Guan, Haitham Hassanieh, Romit Roy Choudhury (SIGCOMM 2018)
-: *Presenter(s):*
+: *Presenter(s):* Aytan
 : [Wireless Hearables with Programmable Speech AI Accelerators](), Malek Itani, Tuochao Chen, Arun Raghavan, Gavriel Kohlberg, Shyamnath Gollakota (MobiCom 2025)
-: *Presenter(s):*
+: *Presenter(s):* Yousef
 
 2/26
 : **Topic: Energy-efficient Computing**
