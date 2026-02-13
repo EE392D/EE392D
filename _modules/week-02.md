@@ -4,7 +4,7 @@ title: Week 2
 
 1/13
 : **Topic: Wireless Sensing and Localization Primer** 
-: [Slides]()
+: [Slides](https://drive.google.com/file/d/1mANEbqO0VLYbuufYUOKC3I7HJUXl2N4Q/view?usp=share_link)
 : **Readings:**
 : [Fundamentals of Positioning](https://onlinelibrary.wiley.com/doi/abs/10.1002/0470092335.ch6)
 
